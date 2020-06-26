@@ -6,3 +6,5 @@ Trying my first push to remote repo
 Change made by team-mate on remote master repo to test pull
 
 Change made by team-mate to check conflict while rebase.
+
+Change made at local master to test conflict file push operation.
